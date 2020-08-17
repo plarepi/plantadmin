@@ -6,3 +6,7 @@ Por último, se tiene la opción de usar (y agregar), modelos que sirvan para co
 Plantadmin admite guardar todas las variables fisicas de plarepi, y 2 espacios extra para cualquier parametro que el usuario quiera añadir (pH, peso, etc)
 El código es abierto, y también esta una versión compilada para Windows. Solo se necesita descargar el archivo .rar y descomprimirlo.
 El documento pdf tiene instrucciones sobre como usar esta herramienta.
+
+
+Plantadmin se creo usando Qt version gratuita.
+Como es claro con la licencia, esta aplicación es de libre distribución, uso y modificación , pero no se puede vender a terceros. 
